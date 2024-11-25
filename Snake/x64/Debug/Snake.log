@@ -1,0 +1,5 @@
+﻿  Snake.cpp
+C:\Users\Shershen Engineer\source\repos\Snake\Snake.cpp(134,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.vcxproj -> C:\Users\Shershen Engineer\source\repos\Snake\x64\Debug\Snake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
